@@ -6,8 +6,7 @@
 
   <sup>Deja tu :star: si te gusta el proyecto.</sup>
 
-  <strong>Streams</strong> de programación en Twitch: [twitch.tv/midudev](https://twitch.tv/midudev)<br />
-  <strong>Comunidad</strong> de desarrollo en Discord: [discord.gg/midudev](https://discord.gg/midudev)
+ 
 </div>
 
 ---
